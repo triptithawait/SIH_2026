@@ -249,7 +249,7 @@ The API includes these records in the `recycler_matches` response field.
 
 ## 🤝 Team / SIH
 
-This project was developed for **Smart India Hackathon 2026** under the e-waste management, artificial intelligence, and machine learning domain. Add team member names, institution details, and the official problem statement reference here before publication.
+This project was developed for **Smart India Hackathon 2026** under the e-waste management, artificial intelligence, and machine learning domain. 
 
 ## 📜 License
 
