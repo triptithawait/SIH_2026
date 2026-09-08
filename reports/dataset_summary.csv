@@ -1,0 +1,35 @@
+dataset,class,count
+image,Battery,398
+image,Keyboard,399
+image,Microwave,399
+image,Mobile,400
+image,Mouse,399
+image,PCB,398
+image,Player,399
+image,Printer,395
+image,Television,398
+image,Washing Machine,400
+image,cardboard,400
+image,glass,400
+image,metal,400
+image,organic,400
+image,paper,400
+image,plastic,400
+image,trash,397
+price,Battery,450
+price,Cable,450
+price,Glass,450
+price,Keyboard,450
+price,LCD Panel,450
+price,Magnet Assembly,450
+price,Metal,450
+price,Microwave,450
+price,Mobile,450
+price,Motor,450
+price,Mouse,450
+price,PCB,450
+price,Plastic,450
+price,Player,450
+price,Printer,450
+price,Television,450
+price,Washing Machine,450
