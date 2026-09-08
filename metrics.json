@@ -1,0 +1,27 @@
+{
+  "classes": [
+    "Battery",
+    "Keyboard",
+    "Microwave",
+    "Mobile",
+    "Mouse",
+    "PCB",
+    "Player",
+    "Printer",
+    "Television",
+    "Washing Machine",
+    "cardboard",
+    "glass",
+    "metal",
+    "organic",
+    "paper",
+    "plastic",
+    "trash"
+  ],
+  "train_images": 4747,
+  "val_images": 1017,
+  "test_images": 1018,
+  "best_val_accuracy": 0.5712881022615536,
+  "test_accuracy": 0.5029469548133595,
+  "device": "cpu"
+}
